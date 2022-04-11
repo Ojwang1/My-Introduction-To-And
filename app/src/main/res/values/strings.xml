@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Introduction</string>
+    <string name="my_title_text">Welcome to my first App </string>
+    <string name="my_body_work">This is my First Work </string>
+</resources>
