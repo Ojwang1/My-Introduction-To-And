@@ -69,13 +69,13 @@
         android:orientation="horizontal">
 
         <Button
-            android:textColor="#D2FB064B"
-            android:background="#FF1162"
-            android:id="@+id/bnt_red"
+            android:id="@+id/btn_red"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Register" />
+            android:background="#FF1162"
+            android:text="Register"
+            android:textColor="#D2FB064B" />
 
         <Button
             android:id="@+id/bnt_login"
